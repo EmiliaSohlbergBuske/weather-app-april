@@ -21,7 +21,6 @@ button {
   opacity: 30%;
   max-width: 100%;
 }
-
 h1 {
   padding: 35px 0px 0px 0px;
 }
@@ -35,19 +34,22 @@ ul {
   position: relative;
   left: -30px;
 }
+
 li {
   padding: 0;
   padding-left: 0;
   font-size: 14px;
-  text-align: center;
 }
 .temperature {
   font-size: 36px;
   margin-top: 30px;
-}
-a {
-  font-size: 18px;
+  text-align: left;
 }
 .description {
+  text-align: center;
+  font-size: 18px;
+}
+
+a {
   font-size: 18px;
 }
