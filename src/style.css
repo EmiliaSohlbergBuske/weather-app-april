@@ -1,0 +1,53 @@
+.frame {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  color: #537791;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 2px solid #e2d1c3;
+  border-radius: 8px;
+  box-shadow: 2px 5px 5px rgb(0 0 0 / 20%);
+  font-family: serif;
+}
+form {
+  display: inline;
+}
+button {
+  font-family: sans-serif;
+}
+.illustration {
+  border-radius: 8px;
+  opacity: 30%;
+  max-width: 100%;
+}
+
+h1 {
+  padding: 35px 0px 0px 0px;
+}
+.date {
+  font-family: "Lora", serif;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 1.5;
+  position: relative;
+  left: -30px;
+}
+li {
+  padding: 0;
+  padding-left: 0;
+  font-size: 14px;
+  text-align: center;
+}
+.temperature {
+  font-size: 36px;
+  margin-top: 30px;
+}
+a {
+  font-size: 18px;
+}
+.description {
+  font-size: 18px;
+}
